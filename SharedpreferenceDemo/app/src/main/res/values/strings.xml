@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferenceDemo</string>
+    <string name="read_success">讀取成功</string>
+    <string name="save_success">儲存成功</string>
+</resources>
